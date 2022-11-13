@@ -1,0 +1,5 @@
+For= Este bucle se utiliza para hacer declaraciones condicionales. En este bucle se necesitaran 3 cosas: una variable la cual se repetira en este bucle; una expresión condicional la cual continuara hasta que sea falsa; y por ultimo la incrementacion (aumento) de nuestra variable.
+Operadores logicos: los utilizaremos cuando querramos combinar dos expresiones de igualdad y saber si alguna de las dos es verdadera, si ninguna de ella lo es, o si ambas lo son. Estas son:
+&&: la utilizaremos para decir "y", por lo que ya sea que ambas expresiones son falsas o verdaderas, este operador lo devolvera.
+||: este lo utilizaremos para decir "o", ya sea que una expresión o la otra cumpla con la funcion lo devolvera.
+!: este ultimo operador lógico es el "Not", dependiendo de donde lo coloquemos devolvera el valor contrario de lo que se le pasa.
